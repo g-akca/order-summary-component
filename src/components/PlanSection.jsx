@@ -2,7 +2,7 @@ import musicIcon from "/images/icon-music.svg";
 
 function PlanSection() {
   return (
-    <section className="p-4 bg-blue-50 rounded-[11px] flex justify-between items-center">
+    <section className="p-4 tablet:p-6 bg-blue-50 rounded-[11px] flex justify-between items-center">
       <div className="flex gap-4 items-center">
         <img src={musicIcon} alt="Music icon" className="h-12" />
 
