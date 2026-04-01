@@ -12,7 +12,7 @@ function PlanSection() {
         </div>
       </div>
 
-      <button className="text-blue-700 font-bold cursor-pointer">Change</button>
+      <button className="text-blue-700 font-bold cursor-pointer transition-all hover:text-purple-500">Change</button>
     </section>
   )
 }
